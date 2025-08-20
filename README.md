@@ -18,3 +18,5 @@ Stylish UI: Modern look with hover effects and smooth layout.
 Personal Info Section: Includes name, email, internship, and college details.
 
 Pure JavaScript: Fully functional without external libraries.
+
+<img width="337" height="607" alt="C1" src="https://github.com/user-attachments/assets/1863178d-a4b9-46ad-acfc-ee1e74550558" />
